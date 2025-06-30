@@ -1,0 +1,2 @@
+Today is 30 june 2025.[D Monday. 
+We are going to learn docker and git today.
